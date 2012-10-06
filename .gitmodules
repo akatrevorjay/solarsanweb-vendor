@@ -1,0 +1,36 @@
+[submodule "pkgs/django-tastypie-mongoengine"]
+	path = pkgs/django-tastypie-mongoengine
+	url = git://github.com/mitar/django-tastypie-mongoengine.git
+[submodule "pkgs/django-rest-framework"]
+	path = pkgs/django-rest-framework
+	url = git://github.com/tomchristie/django-rest-framework.git
+[submodule "pkgs/django-pdb"]
+	path = pkgs/django-pdb
+	url = git://github.com/tomchristie/django-pdb.git
+[submodule "pkgs/django-breadcrumbs"]
+	path = pkgs/django-breadcrumbs
+	url = git://github.com/chronossc/django-breadcrumbs.git
+[submodule "pkgs/django-jingo-offline-compressor"]
+	path = pkgs/django-jingo-offline-compressor
+	url = git://github.com/peterbe/django-jingo-offline-compressor.git
+[submodule "pkgs/django-allauth"]
+	path = pkgs/django-allauth
+	url = git://github.com/pennersr/django-allauth.git
+[submodule "bootstrap/django-bootstrap-toolkit"]
+	path = bootstrap/django-bootstrap-toolkit
+	url = git://github.com/dyve/django-bootstrap-toolkit.git
+[submodule "templates/django-jstemplate"]
+	path = templates/django-jstemplate
+	url = git://github.com/mjumbewu/django-jstemplate.git
+[submodule "api/backbone-tastypie_2"]
+	path = api/backbone-tastypie_2
+	url = git://github.com/amccloud/backbone-tastypie.git
+[submodule "bootstrap/jinja-bootsrap"]
+	path = bootstrap/jinja-bootsrap
+	url = git://github.com/auzigog/jinja-bootstrap.git
+[submodule "templates/coffin"]
+	path = templates/coffin
+	url = git://github.com/coffin/coffin.git
+[submodule "templates/pystache"]
+	path = templates/pystache
+	url = git://github.com/defunkt/pystache.git
