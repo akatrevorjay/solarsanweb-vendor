@@ -34,3 +34,6 @@
 [submodule "templates/pystache"]
 	path = templates/pystache
 	url = git://github.com/defunkt/pystache.git
+[submodule "forms/django-crispy-forms"]
+	path = forms/django-crispy-forms
+	url = git://github.com/maraujop/django-crispy-forms.git
