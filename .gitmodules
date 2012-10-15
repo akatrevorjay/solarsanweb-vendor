@@ -46,3 +46,6 @@
 [submodule "mongo/django-mongoengine"]
 	path = mongo/django-mongoengine
 	url = git://github.com/MongoEngine/django-mongoengine.git
+[submodule "cube/cube_python"]
+	path = cube/cube_python
+	url = git://github.com/tophatmonocle/cube_python.git
