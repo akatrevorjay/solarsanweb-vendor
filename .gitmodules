@@ -37,3 +37,9 @@
 [submodule "forms/django-crispy-forms"]
 	path = forms/django-crispy-forms
 	url = git://github.com/maraujop/django-crispy-forms.git
+[submodule "debugging/django-debug-toolbar"]
+	path = debugging/django-debug-toolbar
+	url = git://github.com/django-debug-toolbar/django-debug-toolbar.git
+[submodule "debugging/django-debug-toolbar-mongo"]
+	path = debugging/django-debug-toolbar-mongo
+	url = git://github.com/hmarr/django-debug-toolbar-mongo.git
