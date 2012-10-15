@@ -55,3 +55,24 @@
 [submodule "mongo/mongoengine"]
 	path = mongo/mongoengine
 	url = https://github.com/MongoEngine/mongoengine.git
+[submodule "cli/urwid"]
+	path = cli/urwid
+	url = git://github.com/wardi/urwid.git
+[submodule "cube/pypercube"]
+	path = cube/pypercube
+	url = git://github.com/sbuss/pypercube.git
+[submodule "core/django-extensions"]
+	path = core/django-extensions
+	url = git://github.com/django-extensions/django-extensions.git
+[submodule "core/django"]
+	path = core/django
+	url = git://github.com/django/django.git
+[submodule "target/rtslib-fb"]
+	path = target/rtslib-fb
+	url = git://github.com/agrover/rtslib-fb.git
+[submodule "target/configshell-fb"]
+	path = target/configshell-fb
+	url = git://github.com/agrover/configshell-fb.git
+[submodule "target/targetcli-fb"]
+	path = target/targetcli-fb
+	url = git://github.com/agrover/targetcli-fb.git
