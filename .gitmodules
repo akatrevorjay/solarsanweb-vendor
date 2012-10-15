@@ -43,3 +43,6 @@
 [submodule "debugging/django-debug-toolbar-mongo"]
 	path = debugging/django-debug-toolbar-mongo
 	url = git://github.com/hmarr/django-debug-toolbar-mongo.git
+[submodule "mongo/django-mongoengine"]
+	path = mongo/django-mongoengine
+	url = git://github.com/MongoEngine/django-mongoengine.git
