@@ -49,3 +49,6 @@
 [submodule "cube/cube_python"]
 	path = cube/cube_python
 	url = git://github.com/tophatmonocle/cube_python.git
+[submodule "cube/cube"]
+	path = cube/cube
+	url = git://github.com/square/cube.git
