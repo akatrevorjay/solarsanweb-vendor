@@ -76,3 +76,6 @@
 [submodule "target/targetcli-fb"]
 	path = target/targetcli-fb
 	url = git://github.com/agrover/targetcli-fb.git
+[submodule "hw/python-udisks"]
+	path = hw/python-udisks
+	url = git://github.com/umago/python-udisks.git
