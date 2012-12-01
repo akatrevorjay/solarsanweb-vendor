@@ -79,3 +79,6 @@
 [submodule "hw/python-udisks"]
 	path = hw/python-udisks
 	url = git://github.com/umago/python-udisks.git
+[submodule "core/django-devserver"]
+	path = core/django-devserver
+	url = git://github.com/dcramer/django-devserver.git
