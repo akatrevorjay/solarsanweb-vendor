@@ -82,3 +82,12 @@
 [submodule "core/django-devserver"]
 	path = core/django-devserver
 	url = git://github.com/dcramer/django-devserver.git
+[submodule "debugging/django_ipython_notebook"]
+	path = debugging/django_ipython_notebook
+	url = git://github.com/jnovinger/django_ipython_notebook.git
+[submodule "debugging/django-ipython-notebook-container/django_ipython_notebook"]
+	path = debugging/django-ipython-notebook-container/django_ipython_notebook
+	url = git://github.com/jnovinger/django_ipython_notebook.git
+[submodule "/opt/solarsanweb/vendor/debugging/django-ipython-notebook-container/django_notebook"]
+	path = /opt/solarsanweb/vendor/debugging/django-ipython-notebook-container/django_notebook
+	url = git://github.com/benthomasson/django_notebook.git
