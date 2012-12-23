@@ -91,3 +91,9 @@
 [submodule "/opt/solarsanweb/vendor/debugging/django-ipython-notebook-container/django_notebook"]
 	path = /opt/solarsanweb/vendor/debugging/django-ipython-notebook-container/django_notebook
 	url = git://github.com/benthomasson/django_notebook.git
+[submodule "drbd/drbd-manager"]
+	path = drbd/drbd-manager
+	url = git://github.com/djs55/drbd-manager.git
+[submodule "debugging/django-ipython-container/django_notebook"]
+	path = debugging/django-ipython-container/django_notebook
+	url = git://github.com/benthomasson/django_notebook.git
