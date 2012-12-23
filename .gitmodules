@@ -52,7 +52,7 @@
 [submodule "cube/cube"]
 	path = cube/cube
     #url = git://github.com/square/cube.git
-    url = git://github.com/temsa/cube.git
+	url = git://github.com/temsa/cube.git
 [submodule "mongo/mongoengine"]
 	path = mongo/mongoengine
 	url = https://github.com/MongoEngine/mongoengine.git
