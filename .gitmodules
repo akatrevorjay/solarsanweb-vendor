@@ -98,3 +98,6 @@
 [submodule "debugging/django-ipython-container/django_notebook"]
 	path = debugging/django-ipython-container/django_notebook
 	url = git://github.com/benthomasson/django_notebook.git
+[submodule "cli/spark"]
+	path = cli/spark
+	url = git://github.com/kennethreitz/spark.py.git
